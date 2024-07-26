@@ -4,12 +4,12 @@
 }
 
 body{
-    background-color: #009194;
+    background-color: #c82ef7;
     font-family: 'Sono', sans-serif;
     }
 
     .cabecalho{
-    background-color: #00ddff;
+    background-color: #d400ff;
     display: flex;
     justify-content: space-around;
     align-items: center; 
@@ -28,7 +28,7 @@ body{
 
     .cidade{
         display: flex;
-        background-color: #024752;
+        background-color: #b80768;
         justify-content: space-around;
         align-items:normal;
         margin: 20px;
@@ -68,7 +68,7 @@ body{
     }
     
     .rodape{
-        background-color:#5fd3e5;
+        background-color:#e55fe5;
         border-radius: 10px;
     }
 
